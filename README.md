@@ -24,3 +24,8 @@ This repository contains hands-on Security Analyst and SOC Analyst projects base
 Each folder represents a specific Security Analyst skill area, with notes, labs, and case studies.
 
 This portfolio is actively updated as part of continuous learning.
+
+## Progress
+- ✅ Day 01: Cybersecurity basics + Security Analyst role overview
+
+
