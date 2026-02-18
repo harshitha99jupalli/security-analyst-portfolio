@@ -34,3 +34,4 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 06: Firewalls, IDS, IPS basics
 - ✅ Day 07: Weekly Review and Cleanup
 - ✅ Day 08: CIA Triad
+- ✅ Day 09: Malware basics (types, spread methods, prevention)
