@@ -30,4 +30,5 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 02: OSI Model and networking basics
 - ✅ Day 03: TCP vs UDP and common ports
 - ✅ Day 04: DNS basics and security risks
+- ✅ Day 05: HTTP vs HTTPS and web security risks
 
