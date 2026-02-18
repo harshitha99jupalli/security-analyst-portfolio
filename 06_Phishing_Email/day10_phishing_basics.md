@@ -39,3 +39,6 @@ to trick people into sharing passwords, bank details, or clicking bad links.
 
 ## Learning link
 https://www.youtube.com/watch?v=XBkzBrXlle0
+
+MITRE mapping example: Initial Access → Phishing
+
