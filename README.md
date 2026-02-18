@@ -33,3 +33,4 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 05: HTTP vs HTTPS and web security risks
 - ✅ Day 06: Firewalls, IDS, IPS basics
 - ✅ Day 07: Weekly Review and Cleanup
+- ✅ Day 08: CIA Triad
