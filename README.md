@@ -36,3 +36,4 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 08: CIA Triad
 - ✅ Day 09: Malware basics (types, spread methods, prevention)
 - ✅ Day 10: Phishing basics and detection
+- ✅ Day 11: Incident Response lifecycle
